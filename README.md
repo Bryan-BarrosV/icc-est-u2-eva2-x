@@ -1,6 +1,7 @@
 
 ##  Evaluación: Estructuras de Datos con Set y Map y logica de arboles
-
+### Resultados
+![Resultado de Ejecución](image.png)
 ### Objetivo
 
 Implementar la funcionalidad solicitada en la clase `LibroController` para ordenar y gestionar objetos de tipo `Book` utilizando colecciones que mantengan un orden definido.
